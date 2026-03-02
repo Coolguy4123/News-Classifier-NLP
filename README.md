@@ -12,9 +12,9 @@ This project demonstrates an end-to-end Machine Learning pipeline:
 **The final model achieves 88.94% test accuracy after 10 training epochs.**
 
 ### Tech Stack
-    - NumPy – Numerical computations
-    - Pandas – Data manipulation and preprocessing
-    - Matplotlib – Visualization of training metrics
-    - Scikit-learn – Data splitting and evaluation metrics
-    - PyTorch – Neural network implementation and training
-    - Streamlit – Web application deployment
+- NumPy – Numerical computations
+- Pandas – Data manipulation and preprocessing
+- Matplotlib – Visualization of training metrics
+- Scikit-learn – Data splitting and evaluation metrics
+- PyTorch – Neural network implementation and training
+- Streamlit – Web application deployment
